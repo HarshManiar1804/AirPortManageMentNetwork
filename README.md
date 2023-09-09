@@ -1,2 +1,2 @@
 # AirPort ManageMent Network
- Creating AirPort ManageMent Network in Cisco Packet Tracer.
+ Creating Airport Management Network in Cisco Packet Tracer.
